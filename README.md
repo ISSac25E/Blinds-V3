@@ -11,7 +11,7 @@ A platform called TUYA Smart allowed for developers to create an app that will c
 Several other features were added along with the new platform. The board was custom designed with jlc pcb.
 The stepper motors now have easing capabilities making them much more pleasant
 
-Utilizes parralel proseccing:
+Utilizes parallel processing:
  - atmega328p as Stepper controller
  - esp8266 as bridge to TUYA service
 
