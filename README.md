@@ -29,4 +29,4 @@ All major components have been designed to be removable and easily replaceable:
 ### Video
 A simple demonstration of the stepper motors and app:
 
-https://drive.google.com/file/d/1dFUuMsUVTf0P5or7KqLXErIDlCNwR8sr/view?usp=drive_link
+[Blinds V3 Demo](https://youtu.be/rD2o77SG-wQ)
